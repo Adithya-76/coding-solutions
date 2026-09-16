@@ -48,9 +48,9 @@ Explanation: The total number of possible ways to draw 7 line segments is 379629
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.5 MB  
-**Submitted:** 2026-09-16T16:11:23.485Z  
+**Runtime:** 2581 ms (beats 6.89%)  
+**Memory:** 793.8 MB (beats 7.76%)  
+**Submitted:** 2026-09-16T16:11:30.538Z  
 
 ```py
 class Solution:
