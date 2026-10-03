@@ -40,9 +40,9 @@ Explanation: Maximum amount of money the thief can rob = 4 + 5 = 9.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42.7 MB  
-**Submitted:** 2026-10-03T06:47:16.251Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 46.7 MB (beats 42.35%)  
+**Submitted:** 2026-10-03T06:47:23.743Z  
 
 ```java
 class Solution {
