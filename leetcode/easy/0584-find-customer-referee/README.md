@@ -62,13 +62,15 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 580 ms (beats 27.43%)  
+**Runtime:** 683 ms (beats 11.74%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-10-12T09:26:22.657Z  
+**Submitted:** 2026-10-12T09:26:40.869Z  
 
 ```sql
 # Write your MySQL query statement below
-select name from Customer where referee_id != 2 or referee_id is NULL;
+select name 
+from Customer
+where referee_id != 2 or referee_id is NULL;
 ```
 
 ---
