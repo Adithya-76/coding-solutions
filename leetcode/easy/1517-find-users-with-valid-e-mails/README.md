@@ -69,9 +69,9 @@ The mail of user 7 starts with a period.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 903 ms (beats 31.16%)  
+**Runtime:** 1346 ms (beats 5.00%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-10-15T05:00:14.587Z  
+**Submitted:** 2026-10-15T05:07:17.812Z  
 
 ```sql
 # Write your MySQL query statement below
